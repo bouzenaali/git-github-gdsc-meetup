@@ -1,11 +1,11 @@
 # Play the game
-## Fork the Repository
+### Fork the Repository
 <details>
 <summary>Hint 1:</summary>
 1. Click the "Fork" button in the top right corner to create your own copy.
 </details>
 
-## Clone the Repository
+### Clone the Repository
 <details>
 <summary>Hint 2:</summary>
 
@@ -16,7 +16,7 @@ git clone https://github.com/bouzenaali/git-github-gdsc-meetup
 ```
 </details>
 
-## Edit the Code
+### Edit the Code
 <details>
 <summary>Hint 3: </summary>
 
@@ -33,7 +33,7 @@ git clone https://github.com/bouzenaali/git-github-gdsc-meetup
 ```
 </details>
 
-## Commit the Changes
+### Commit the Changes
 <details>
 <summary>Hint 4:</summary>
 
@@ -53,7 +53,7 @@ git commit -m "Add my team"
 ```
 </details>
 
-## Push to Your Repository
+### Push to Your Repository
 <details>
 <summary>Hint 5:</summary>
 
@@ -64,7 +64,7 @@ git push origin main
 ```
 </details>
 
-## Create a Pull Request
+### Create a Pull Request
 <details>
 <summary>Hint 6:</summary>
 
